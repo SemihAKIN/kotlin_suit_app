@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Suit_App</string>
+    <string name="suits">Suits</string>
+    <string name="discount">Sale %10</string>
+    <string name="price">Price :</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="item_price">$ 28</string>
+    <string name="material">Cotton</string>
+    <string name="size">S, M, L, XL</string>
+    <string name="man">Man Collection</string>
+
+</resources>
