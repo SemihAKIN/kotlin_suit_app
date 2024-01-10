@@ -7,6 +7,11 @@
     <string name="item_price">$ 28</string>
     <string name="material">Cotton</string>
     <string name="size">S, M, L, XL</string>
+    <string name="sizes">Size :</string>
+    <string name="colors">Colors :</string>
     <string name="man">Man Collection</string>
+    <string name="score">Score :</string>
+    <string name="score_value">3.8</string>
+
 
 </resources>
